@@ -1,6 +1,6 @@
 # Stack Hunt
 
-Pesquisar e armazenar as principais stacks para aplicação e estudo em diferentes projetos.
+ Pesquisar e armazenar as principais stacks para aplicação e estudo em diferentes projetos.
 
 ![Stack Hunt](https://github.com/famorai/stack-hunt/blob/master/Gif%20Readme-1.gif) ![Stack Hunt](https://github.com/famorai/stack-hunt/blob/master/Gif%20Readme.gif)
 
@@ -17,5 +17,12 @@ Pesquisar e armazenar as principais stacks para aplicação e estudo em diferent
    * Mongodb
    * Docker
    * Insomnia
+<<<<<<< HEAD
+=======
+
+## Uso
+  
+... em construção
+>>>>>>> 734412a69590b7f6b1fa6969e2f4960b04f622f4
 
 
