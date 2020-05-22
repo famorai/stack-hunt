@@ -17,12 +17,8 @@
    * Mongodb
    * Docker
    * Insomnia
-<<<<<<< HEAD
-=======
 
-## Uso
-  
-... em construção
->>>>>>> 734412a69590b7f6b1fa6969e2f4960b04f622f4
+
+
 
 
