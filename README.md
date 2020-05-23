@@ -1,24 +1,32 @@
 # Stack Hunt
 
- Pesquisar e armazenar as principais stacks para aplicação e estudo em diferentes projetos.
+ Search and store the best stacks for the best scalable and modern application development.
+ 
+ ## Layout
 
 ![Stack Hunt](https://github.com/famorai/stack-hunt/blob/master/Gif%20Readme-1.gif) ![Stack Hunt](https://github.com/famorai/stack-hunt/blob/master/Gif%20Readme.gif)
 
-## Introdução
-
-  Projeto criado para facilitar o dia a dia na busca das principais stacks. O mesmo contexto se aplica para outros nichos, quando o objetivo é, diante da quantidade de opções disponíveis, ter a pronta disposição, as principais tecnologias e recursos com um rápido acesso, o que aumenta a produtividade. 
+## Project
   
-## Tecnologias 
+  Facility the good moments for building better applications. More productive and fast access while create aplications.
+      
+## Technologies
 
    * ReactJs
-   * Lottie-web
    * NodeJs
    * Axios
-   * Mongodb
+   * Mongo Db
    * Docker
    * Insomnia
+   
+## How to Contribute
 
+   * Fork this repository; 
+   * Create a branch with your feature; git checkout -b my-feature;
+   * Commit all changes; git commit -m 'feat: My feature';
+   * Push your branch; git push origin my-feature;
 
+ ### Thanks :)
 
 
 
