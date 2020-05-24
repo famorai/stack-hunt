@@ -12,12 +12,12 @@
       
 ## Technologies
 
-   * ReactJs
-   * NodeJs
-   * Axios
-   * Mongo Db
-   * Docker
-   * Insomnia
+   * [ReactJs](https://reactjs.org/)
+   * [NodeJs](https://nodejs.org/en/)
+   * [Axios](https://github.com/axios/axios)
+   * [Mongo Db](https://www.mongodb.com/)
+   * [Docker](https://www.docker.com/)
+   * [Insomnia](https://insomnia.rest)
    
 ## How to Contribute
 
